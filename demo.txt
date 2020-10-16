@@ -1,1 +1,0 @@
-A new file been created to demo on Rename and delete file.
